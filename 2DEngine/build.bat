@@ -1,0 +1,1 @@
+g++ -g -o tg.exe *.cpp -L lib -I include -lglfw3dll -lopengl32 -lwinmm

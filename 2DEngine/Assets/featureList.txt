@@ -1,0 +1,9 @@
+- collision
+- dynamic depth
+- level editor 
+- lexer / parser system
+- camera following character
+- openGL renderer
+- custom compilation - g++
+- background - assets
+- character controller
