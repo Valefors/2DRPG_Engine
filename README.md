@@ -1,2 +1,2 @@
-# 2DRPG_Engine
-A 2D RPG engine in C++ using OpenGL
+# 2D_Engine
+A 2D engine in C++ using OpenGL
